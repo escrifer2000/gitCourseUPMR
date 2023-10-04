@@ -14,7 +14,7 @@
 int main() {
     // System Initialization
     initialize_system();
-%hola mundo%
+% hola mundo % 
     while(true){
         //Read analog values
         can_comm_front_sensors_t frontSensors;
